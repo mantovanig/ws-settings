@@ -1,4 +1,5 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="AddToFavoritesPopup" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
     <keyboard-shortcut first-keystroke="meta alt divide" />
@@ -13,6 +14,10 @@
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta a_with_grave" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift meta alt p" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta less" />
