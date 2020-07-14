@@ -18,6 +18,7 @@
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift meta alt p" />
     <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta less" />
