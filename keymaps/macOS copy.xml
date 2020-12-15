@@ -4,6 +4,10 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta #10000e0" />
   </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift meta alt p" />
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta less" />
   </action>
