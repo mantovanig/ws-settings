@@ -7,8 +7,8 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.bp.qa" type="PLAIN_TEXT" />
       <mapping pattern=".env.ubi.qa" type="PLAIN_TEXT" />
-      <mapping pattern=".env.ubi.prod" type="PLAIN_TEXT" />
       <mapping pattern=".env.ubi.collaudo" type="PLAIN_TEXT" />
+      <mapping pattern=".env.ubi.prod" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.bp.collaudo" type="PLAIN_TEXT" />
       <mapping pattern=".env.nobrand.demo" type="PLAIN_TEXT" />
